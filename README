@@ -1,0 +1,15 @@
+About
+------------------
+The zf-mysql-logging-queue application is a simple application that demonstrates the use of the Zend_Queue component of the Zend Framework (version 1.11.1 at the time of writing). It also uses the MySQL database adapter so that the queue data is stored in a MySQL backend database.
+
+Given the use of the adapter, the datasource is interchangeable as needed. But for the, current, purposes of the application, it's in MySQL. This application doesn't get too sophisticated, nor employ a large set of features. However, in future versions, it may look to do that. 
+
+Further Reading
+------------------
+- http://en.wikipedia.org/wiki/Queueing_model
+- http://en.wikipedia.org/wiki/Queueing_theory
+- http://en.wikipedia.org/wiki/Kendall%27s_notation
+- http://en.wikipedia.org/wiki/Category:Stochastic_processes
+- http://en.wikipedia.org/wiki/Message_queue
+- http://www.ee.cityu.edu.hk/~zukerman/classnotes.pdf
+- http://blog.twitter.com/2009/01/building-on-open-source.html
